@@ -1,0 +1,16 @@
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\bin\Debug\MusicPlayerProject.exe.config
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\bin\Debug\MusicPlayerProject.exe
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\bin\Debug\MusicPlayerProject.pdb
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.csproj.AssemblyReference.cache
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.csproj.SuggestedBindingRedirects.cache
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.Properties.Resources.resources
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.csproj.GenerateResource.cache
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.csproj.CoreCompileInputs.cache
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.exe
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.pdb
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.music_player.resources
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\bin\Debug\Interop.TDCLib.dll
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\bin\Debug\AxInterop.TDCLib.dll
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\obj\Debug\Interop.TDCLib.dll
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\obj\Debug\AxInterop.TDCLib.dll
+D:\Code Learning\Music Player\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.csproj.ResolveComReference.cache
